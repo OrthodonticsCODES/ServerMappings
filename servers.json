@@ -1650,3 +1650,10 @@
 	]
     }
 ]
+},
+    {
+	"id": "amber",
+	"name": "AmberPvP",
+	"addresses": [
+	    "na.offbrandprac.club"
+	]
